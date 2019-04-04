@@ -1,7 +1,5 @@
 # DFA which accepts zero or the number devisible by 5
 
-## Description
-
 DFA(Deterministic Finite Accepter) which accepts zero or the number devisible by 5.
 
 Input value is string of 0s and 1s, interpreted as a binary representation of an integer.
