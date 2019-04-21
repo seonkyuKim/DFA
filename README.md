@@ -6,6 +6,10 @@ Input value is string of 0s and 1s, interpreted as a binary representation of an
 
 DFA returns 'Accept' or 'Not accept' depending on input value.
 
+## Language
+
+python3
+
 ## Usage
 
 Run DFA.py
